@@ -22,7 +22,7 @@ function addToCart(productName, price) {
   
   saveCart();
   updateCartBadge();
-  alert(`${productName} added to cart!`);
+  
 }
 
 // Remove item from cart
